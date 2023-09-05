@@ -148,6 +148,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    text-align: center;
+
 }
 
 .online-reputation-management {
@@ -157,6 +159,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    text-align: center;
 }
 
 .social-media-marketing {
@@ -166,6 +169,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    text-align: center;
 }
 
 .search-engine-optimization img {
@@ -183,19 +187,16 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    width: fit-content;
 }
 
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
-    width: fit-content;
 }
 
 .social-media-marketing h2 {
     margin-bottom: 20px;
-    font-size: 36px;  
-    width:fit-content; 
+    font-size: 36px;
 
 }
 
@@ -204,8 +205,6 @@ p {
     display: inline-block;
     margin: auto;
     flex-wrap: wrap;
-
-
     }
 
 .footer {
